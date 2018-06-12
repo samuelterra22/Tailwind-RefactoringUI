@@ -1,4 +1,4 @@
-# Tailwind CSS Webpack Starter Project
+# Tailwind CSS Webpack Starter Project - RefactoringUI Clone
 
 This is an example of a super simple Webpack setup for using [Tailwind CSS](https://tailwindcss.com).
 
